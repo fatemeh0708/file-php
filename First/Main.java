@@ -33,10 +33,10 @@ public class Main {
     }
     public static float avrage(){
         Scanner scanner=new Scanner(System.in);
-        System.out.println("????? ?? ???? ????");
+        System.out.println("نمره را وارد کنید");
 
         int [] array=new int[4];
-        int sum=0;
+        int sum=0;یی ز
         float avg=0;
         for(int i=0;i<4;i++){
             array [i]=scanner.nextInt();
@@ -48,4 +48,5 @@ public class Main {
 
 
 }
+
 
